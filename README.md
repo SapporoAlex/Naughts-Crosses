@@ -2,6 +2,8 @@
 
 Welcome to the Naughts & Crosses game, a classic tic-tac-toe game with a schoolyard theme, brought to life with Pygame. This game allows players to enjoy a timeless classic in a digital format, complete with sound effects that mimic the experience of playing in an actual schoolyard.
 
+<img src="preview.gif">
+
 ## Table of Contents
 - [Installation](#installation)
 - [Requirements](#requirements)
