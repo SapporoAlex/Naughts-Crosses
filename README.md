@@ -16,7 +16,7 @@ To play Naughts & Crosses, you'll need to have Python and Pygame installed on yo
 
 1. Clone the repository to your local machine:
     ```
-    git clone <repository-url>
+    git clone <(https://github.com/SapporoAlex/Naughts-Crosses.git)>
     ```
 2. Navigate to the cloned repository's directory.
 
