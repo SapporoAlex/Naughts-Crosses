@@ -11,19 +11,14 @@ Welcome to the Naughts & Crosses game, a classic tic-tac-toe game with a schooly
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
+To run Naughts & Crosses, you'll need Python and Pygame installed on your system.
 
-To play Naughts & Crosses, you'll need to have Python and Pygame installed on your computer. Follow these steps to get started:
-
-1. Clone the repository to your local machine:
-    ```
-    git clone <(https://github.com/SapporoAlex/Naughts-Crosses.git)>
-    ```
-2. Navigate to the cloned repository's directory.
-
-3. Install the required Python package (if Pygame is not installed):
-    ```
-    pip install pygame
-    ```
+Clone the repository or download the source code.
+Ensure you have Python installed. If not, download and install it from python.org.
+Install Pygame by running pip install pygame in your terminal or command prompt.
+Navigate to the game's directory and run 
+```N&C.py```
+to start the game.
 
 ## Requirements
 
