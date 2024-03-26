@@ -15,7 +15,7 @@ To run Naughts & Crosses, you'll need Python and Pygame installed on your system
 
 Clone the repository or download the source code.
 Ensure you have Python installed. If not, download and install it from python.org.
-Install Pygame by running pip install pygame in your terminal or command prompt.
+Install Pygame by running ```pip install pygame``` in your terminal or command prompt.
 Navigate to the game's directory and run 
 ```N&C.py```
 to start the game.
